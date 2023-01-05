@@ -15,6 +15,9 @@
 		3851C804294A494200693EC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3851C802294A494200693EC2 /* Main.storyboard */; };
 		3851C806294A494600693EC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3851C805294A494600693EC2 /* Assets.xcassets */; };
 		3851C809294A494600693EC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3851C807294A494600693EC2 /* LaunchScreen.storyboard */; };
+		386E32262965F9DE00C7532F /* Magic.sks in Resources */ = {isa = PBXBuildFile; fileRef = 386E32252965F9DE00C7532F /* Magic.sks */; };
+		386E322829660E9600C7532F /* Spark.sks in Resources */ = {isa = PBXBuildFile; fileRef = 386E322729660E9600C7532F /* Spark.sks */; };
+		386E322A29660FD900C7532F /* Fire.sks in Resources */ = {isa = PBXBuildFile; fileRef = 386E322929660FD900C7532F /* Fire.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +30,9 @@
 		3851C803294A494200693EC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3851C805294A494600693EC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3851C808294A494600693EC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		386E32252965F9DE00C7532F /* Magic.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Magic.sks; sourceTree = "<group>"; };
+		386E322729660E9600C7532F /* Spark.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Spark.sks; sourceTree = "<group>"; };
+		386E322929660FD900C7532F /* Fire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Fire.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				3851C7FA294A494200693EC2 /* GameScene.sks */,
 				3851C7FC294A494200693EC2 /* Actions.sks */,
 				3851C7FE294A494200693EC2 /* GameScene.swift */,
+				386E322729660E9600C7532F /* Spark.sks */,
+				386E322929660FD900C7532F /* Fire.sks */,
+				386E32252965F9DE00C7532F /* Magic.sks */,
 				3851C800294A494200693EC2 /* GameViewController.swift */,
 				3851C802294A494200693EC2 /* Main.storyboard */,
 				3851C805294A494600693EC2 /* Assets.xcassets */,
@@ -130,8 +139,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				3851C804294A494200693EC2 /* Main.storyboard in Resources */,
+				386E32262965F9DE00C7532F /* Magic.sks in Resources */,
 				3851C7FB294A494200693EC2 /* GameScene.sks in Resources */,
+				386E322829660E9600C7532F /* Spark.sks in Resources */,
 				3851C806294A494600693EC2 /* Assets.xcassets in Resources */,
+				386E322A29660FD900C7532F /* Fire.sks in Resources */,
 				3851C809294A494600693EC2 /* LaunchScreen.storyboard in Resources */,
 				3851C7FD294A494200693EC2 /* Actions.sks in Resources */,
 			);
