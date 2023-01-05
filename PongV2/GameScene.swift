@@ -10,7 +10,7 @@ import GameplayKit
 
 class GameScene: SKScene, SKPhysicsContactDelegate {
     
-    
+    // hi class
     var paddle = SKSpriteNode() // dummy node that will change in DidMove
     var ball = SKSpriteNode()
     var compPaddle = SKSpriteNode()
